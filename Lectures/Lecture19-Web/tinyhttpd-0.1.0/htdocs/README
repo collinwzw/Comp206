@@ -1,0 +1,9 @@
+The files and programs in this folder are the "payload" that can be distributed by the web server. 
+Any path that you type in your web address after the port number will indicate a file here.
+For example:
+
+localhost:<port>/Lecture_Example.html
+
+Leads to the server accessing the "Lecture_Example.html" file in this folder.
+
+If no filename is requested by the user, the default one is "index.html" in this folder.
